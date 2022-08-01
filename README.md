@@ -1,7 +1,7 @@
 [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://zlelo.github.io)
 [![Linux](https://svgshare.com/i/Zhy.svg)](https://svgshare.com/i/Zhy.svg)
 [![Windows](https://svgshare.com/i/ZhY.svg)](https://svgshare.com/i/ZhY.svg)
-[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Naereen&theme=blue-green)](https://github.com/zlElo/github-readme-stats)
+[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zlELo&theme=blue-green)](https://github.com/zlElo/github-readme-stats)
 
 - 👋 Hi, ich bin @zlElo
 - 👀 Mich interessieren alle Dinge rund um Hardware und natürlich Software ;)
