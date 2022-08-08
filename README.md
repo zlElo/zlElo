@@ -6,8 +6,9 @@
 - 👋 Hi, ich bin @zlElo
 - 👀 Mich interessieren alle Dinge rund um Hardware und natürlich Software ;)
 - 🌱 Zurzeit lerne ich Python, davor habe ich mir aber auch mal HTML, CSS und JS angeschaut
+- 🏫 Ich arbeite mit an der leichtgewichtigen Linux Distribution TuumOS @Tuum Linux
 - Meine Website: https://zlelo.github.io 
-- Schau dich ruhig mal durch meine Projekte etc. durch :)
+- Schau dich ruhig mal durch alles was hier ist durch :)
 
 
 My languages:
