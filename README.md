@@ -7,7 +7,7 @@
 
 <p align="center">- Ask me about Python, some HTML</p>
 
-<p align="center">- ⚡ Fun fact: my main pc is a Raspberry Pi 4b with Raspian OS</p>
+<p align="center">⚡ Fun fact: my main pc is a Raspberry Pi 4b with Raspian OS</p>
 
 
 <p align="center">
