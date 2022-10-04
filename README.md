@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm zlELo</h1>
+<h1 align="center">Hi ヾ(＾-＾)ノ, I'm zlELo</h1>
 <h3 align="center">A hobby developer from Germany</h3>
 
 <p align="center">- I’m currently working for my <a href="https://zlelo.github.io">website</p>
