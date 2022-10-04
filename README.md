@@ -1,21 +1,25 @@
-[![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://zlelo.github.io)
-[![Linux](https://svgshare.com/i/Zhy.svg)](https://svgshare.com/i/Zhy.svg)
-[![Windows](https://svgshare.com/i/ZhY.svg)](https://svgshare.com/i/ZhY.svg)
+<h1 align="center">Hi, I'm zlELo</h1>
+<h3 align="center">A hobby developer from Germany</h3>
 
-### 😄 About me :
+- 🔭 I’m currently working on [my Website](https://github.com/zlElo/zlELo.github.io)
 
-- Hi, i am @zlElo
-- I like all things about Hardware and software
-- My favorite programming language is Python, but i have some knowledges about HTML, CSS and Javascript
-- I work with @Juffma at the lightweight Linux Distribution TuumOS
-- My website: https://zlelo.github.io 
-- Look around my profile and have fun on GitHub :)
+- 🌱 I’m currently learning **the last things of Python**
+
+- 💬 Ask me about **Python, some HTML**
+
+- ⚡ Fun fact **my main pc is a Raspberry Pi 4b with Raspian OS**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 
-### ✔️ My Stats :
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zlelo&" alt="zlelo" /></p>
+<p><[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zlElo&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) /</p>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=zlElo&theme=tokyonight&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zlElo&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 zlElo/zlElo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
