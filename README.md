@@ -18,6 +18,7 @@
 
 
 <h1><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zlelo&" alt="zlelo" /></p></h1>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=zlElo&theme=tokyonight&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 
 <!---
