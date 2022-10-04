@@ -13,7 +13,7 @@
 
 My languages:
 
-[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zlELo&theme=blue-green)](https://github.com/zlElo/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zlElo)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 zlElo/zlElo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
