@@ -3,17 +3,15 @@
 [![Windows](https://svgshare.com/i/ZhY.svg)](https://svgshare.com/i/ZhY.svg)
 
 
-- Hi, ich bin @zlElo
-- Mich interessieren alle Dinge rund um Hardware und natürlich Software ;)
-- Meine Lieblingssprache ist Python, ich habe aber auch Kentnisse über HTML, CSS und ein wenig JS
-- Ich arbeite mit an der leichtgewichtigen Linux Distribution TuumOS
-- Meine Website: https://zlelo.github.io 
-- Schau dich ruhig mal durch alles was hier ist durch :)
+- Hi, i am @zlElo
+- I like all things about Hardware and software
+- My favorite programming language is Python, but i have some knowledges about HTML, CSS and Javascript
+- I work with @Juffma at the lightweight Linux Distribution TuumOS
+- My website: https://zlelo.github.io 
+- Look around my profile and have fun on GitHub :)
 
 
-My languages:
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zlElo&theme=tokyonight)
+### :hammer_and_wrench: Languages and Tools :
 
 <!---
 zlElo/zlElo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
