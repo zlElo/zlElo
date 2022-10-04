@@ -1,13 +1,13 @@
 <h1 align="center">Hi, I'm zlELo</h1>
 <h3 align="center">A hobby developer from Germany</h3>
 
-<p align="center">- 🔭 I’m currently working on [my Website](https://github.com/zlElo/zlELo.github.io)</p>
+<p align="center">- I’m currently working for my <a href="https://zlelo.github.io">website</p>
 
-<p align="center">- 🌱 I’m currently learning **the last things of Python**</p>
+<p align="center">- I’m currently learning the last things of Python</p>
 
-<p align="center">- 💬 Ask me about **Python, some HTML**</p>
+<p align="center">- Ask me about Python, some HTML</p>
 
-<p align="center">- ⚡ Fun fact **my main pc is a Raspberry Pi 4b with Raspian OS**</p>
+<p align="center">- ⚡ Fun fact: my main pc is a Raspberry Pi 4b with Raspian OS</p>
 
 
 <p align="center">
