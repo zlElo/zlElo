@@ -11,7 +11,10 @@
 - Look around my profile and have fun on GitHub :)
 
 
-### :hammer_and_wrench: Languages and Tools :
+### :fire: My Stats :
+
+https://github-readme-streak-stats.herokuapp.com/?user=zlElo
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=zlElo&theme=tokyonight&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 <!---
 zlElo/zlElo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
