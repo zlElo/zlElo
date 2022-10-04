@@ -2,6 +2,7 @@
 [![Linux](https://svgshare.com/i/Zhy.svg)](https://svgshare.com/i/Zhy.svg)
 [![Windows](https://svgshare.com/i/ZhY.svg)](https://svgshare.com/i/ZhY.svg)
 
+### 😄 About me :
 
 - Hi, i am @zlElo
 - I like all things about Hardware and software
@@ -11,7 +12,7 @@
 - Look around my profile and have fun on GitHub :)
 
 
-### :fire: My Stats :
+### 🔥 My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=zlElo&theme=tokyonight&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zlElo&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
