@@ -7,7 +7,7 @@
 
 <p align="center">- Ask me about Python, some HTML</p>
 
-<p align="center">⚡ Fun fact: my main pc is a Raspberry Pi 4b with Raspian OS</p>
+<p align="center">⚡ Fun fact: Before I learned Python, I actually wanted to learn C# to program games. But I didn't like the language at all, which is why I bought a Python book for €50 and learned Python. I'm still a long way from finishing the book, I'm still missing a few hundred pages, but I'm still learning a lot through practical programming of programs and helpful forums.</p>
 
 
 <p align="center">
