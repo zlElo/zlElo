@@ -5,7 +5,7 @@
 
 <p align="center">- I’m currently learning the last things of Python</p>
 
-<p align="center">- Ask me about Python, some HTML</p>
+<p align="center">- Ask me about Python, some HTML </p>
 
 <p align="center">⚡ Fun fact: WhatsApp is out for me. I use the Signal messenger since over 2 years and it's amazing!</p>
 
