@@ -1,6 +1,4 @@
-<h1 align="center">Hi ヾ(＾-＾)ノ, I'm zlElo</h1>
-
-<h2 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%40zlElo)](https://git.io/typing-svg)</h2>
+<h1 align="center">Hi ヾ(＾-＾)ノ, I'm <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%40zlElo" alt="Typing SVG" /></a></h1>
 
 <h3 align="center">A hobby developer from Germany</h3>
 
