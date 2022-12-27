@@ -1,4 +1,5 @@
-<h1 align="center">Hi ヾ(＾-＾)ノ, I'm [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%40zlElo)](https://git.io/typing-svg)</h1>
+<h1 align="center">Hi ヾ(＾-＾)ノ, I'm <h2 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%40zlElo)](https://git.io/typing-svg)</h2></h1>
+
 <h3 align="center">A hobby developer from Germany</h3>
 
 <p align="center">- I’m currently working for my <a href="https://zlelo.github.io">website</p>
