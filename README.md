@@ -11,7 +11,7 @@
 
 <p align="center">⚡ Fun fact: WhatsApp is out for me. I use the Signal messenger since over 2 years and it's amazing! #Signal4Ever</p>
 
-<p align="center">- Do you need help with python or only want to speak? This Discord server might be the best for you :) <a href="https://discord.gg/Ubh3R3jN">python code area</p>
+<p align="center">- Do you need help with python or only want to speak? This Discord server might be the best for you :) Here is the invite link: <a href="https://discord.gg/Ubh3R3jN">Discord server</p>
 
 
 <p align="center">
