@@ -24,7 +24,6 @@
 
 <h1 align="center"><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zlelo&" alt="zlelo" /></p></h1>
 
-![zlElos' GitHub stats](https://github-readme-stats.vercel.app/api?username=zlElo&show_icons=true&theme=dark)
 
 
 <!---
