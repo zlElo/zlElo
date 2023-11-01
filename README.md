@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>- Im currently working on different python projects<br>- Im currently learning the programming language "V"<br>- Ask me about Python<br>- Fun fact: WhatsApp is out for me. I use the Signal messenger since over 3 years and it's amazing!
+<br>- Im currently working on different python projects<br>- Im currently learning the libary tensorflow<br>- Ask me about Python<br>- Fun fact: WhatsApp is out for me. I use the Signal messenger since over 3 years and it's amazing!
 
 
 ## 🌐 Socials:
