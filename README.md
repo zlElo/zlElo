@@ -1,5 +1,6 @@
 # 💫 About Me:
-<br>- Im currently working on different python projects<br>- Im currently learning the libary tensorflow<br>- Ask me about Python<br>- Fun fact: WhatsApp is out for me. I use the Signal messenger since over 3 years and it's amazing!
+Hello there 👋🏼,
+zlElo here! Nice that you look around on my profile :) I'm a hobby developer with Python as main-language. I love OpenSource projects! Thats the reason, why I use Signal instead of WhatsApp or sth. like that since over 3 years. 
 
 
 ## 🌐 Socials:
