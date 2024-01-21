@@ -1,6 +1,6 @@
 # 💫 About Me:
 Hello there 👋🏼,
-zlElo here! Nice that you look around on my profile :) I'm a hobby developer with Python as main-language. I love OpenSource projects! Thats the reason, why I use Signal instead of WhatsApp or sth. like that since over 3 years. 
+zlElo here! Nice that you look around on my profile :) I'm a hobby developer and code in Python and Kotlin. I love OpenSource projects! Thats the reason, why I use Signal instead of WhatsApp or sth. like that since over 3 years. 
 
 
 ## 🌐 Socials:
