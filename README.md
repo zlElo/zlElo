@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello there 👋🏼,<br>zlElo here! Nice that you look around on my profile :) I'm a hobby developer and code in Python, JavaScript and Swift. I love OpenSource projects! Thats the reason, why I use Signal instead of WhatsApp or sth. like that since over 4 years. At this moment I work with @DarkGloves on a cross-platform taskmanager, written in Python.
+Hello there 👋🏼,<br>zlElo here! Nice that you look around on my profile :) I'm a hobby developer and code in Python, JavaScript, Kotlin and Swift. I love OpenSource projects! Thats the reason, why I use Signal instead of WhatsApp or sth. like that since over 4 years. At this moment I work with @DarkGloves on a cross-platform taskmanager, written in Python.
 
 
 ## 🌐 Socials:
