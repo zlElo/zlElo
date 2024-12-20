@@ -2,7 +2,7 @@
 #### I am a hobby Python and JS coder
 <img src="https://cdn.pixabay.com/photo/2016/09/08/04/12/programmer-1653351_1280.png" alt="I am a hobby Python and JS coder" width="500"/>
 
-I want to share my project's Open Source with everyone, maybe someone is happy about it 😄 Like and share it if you like something, that would be great. Stay active!
+I want to share my project's Open Source with everyone, maybe someone is happy about it 😄 Leave a star and share it if you like something, that would be great. Stay active!
 
 Skills: PY / JS / HTML / CSS
 
