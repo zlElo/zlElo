@@ -1,11 +1,13 @@
-### Hi there 👋, my name is zlElo
-#### I am a hobby Python and JS coder
-<img src="https://github.com/zlElo/files/blob/main/banner.png?raw=true" alt="I am a hobby Python and JS coder" width="500"/>
+# Leo Lutz
 
-I want to share my project's Open Source with everyone, maybe someone is happy about it 😄 Leave a star and share it if you like something, that would be great. Stay active!
+**Student from Germany**
 
-Skills: PY / JS / HTML / CSS
+I build and share open-source projects. Feel free to explore my repositories — if something is useful, a star or share is always appreciated.
 
+### Skills
+Python · JavaScript · Go · HTML · CSS
 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/zlElo)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/23519493)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://zlelo.de)  
+### Links
+[![GitHub](https://img.shields.io/badge/GitHub-zlElo-181717?style=flat&logo=github)](https://github.com/zlElo)
+[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-23519493-F58025?style=flat&logo=stackoverflow)](https://stackoverflow.com/users/23519493)
+[![Website](https://img.shields.io/badge/Website-zlelo.de-0A66C2?style=flat&logo=icloud)](https://zlelo.de)
